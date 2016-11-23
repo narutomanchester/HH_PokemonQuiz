@@ -117,7 +117,7 @@ class QuizGameScene : UIViewController  {
         
         if sender.tag != self.tagOfTrueAns{
             let btnWrong = self.view.viewWithTag(sender.tag) as! UIButton
-            btnWrong.backgroundColor = UIColor.gray
+            btnWrong.backgroundColor = UIColor.red
         } else {
             self.score += 1
             self.scoreLabel.text = (String(self.score))

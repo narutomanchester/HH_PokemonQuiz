@@ -456,8 +456,8 @@
                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="FHE-8B-BTS">
                                         <rect key="frame" x="0.0" y="424.5" width="375" height="242.5"/>
                                         <subviews>
-                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Coprright Techkids 2016" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="wZ3-38-Iw7">
-                                                <rect key="frame" x="93" y="216.5" width="189" height="21"/>
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Coprright © Techkids 2016" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="wZ3-38-Iw7">
+                                                <rect key="frame" x="84" y="221.5" width="207.5" height="21"/>
                                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
@@ -466,7 +466,7 @@
                                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                         <constraints>
                                             <constraint firstItem="wZ3-38-Iw7" firstAttribute="centerX" secondItem="FHE-8B-BTS" secondAttribute="centerX" id="Qnq-iW-uX3"/>
-                                            <constraint firstAttribute="bottom" secondItem="wZ3-38-Iw7" secondAttribute="bottom" constant="5" id="fBA-Ht-mSB"/>
+                                            <constraint firstAttribute="bottom" secondItem="wZ3-38-Iw7" secondAttribute="bottom" id="fBA-Ht-mSB"/>
                                         </constraints>
                                     </view>
                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Yq0-e0-9G5">
